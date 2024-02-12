@@ -8,7 +8,7 @@ To run this app please follow those steps:
 
 1. Clone this repo locally:
 ```bash
-https://github.com/yonatanmsk/UsersForApp.git
+git clone https://github.com/yonatanmsk/UsersForApp.git
 ```
 2. Build and run the docker:
 ```bash
