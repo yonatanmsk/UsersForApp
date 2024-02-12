@@ -1,0 +1,51 @@
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .headline {
+    font-size: 1.8rem;
+    color: rgb(7, 7, 134);
+  }
+
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .input-field {
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+  .input-field label {
+    width: 150px;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 1.3rem;
+  }
+  
+  .input-field input {
+    flex: 1;
+    width: 100%;
+  }
+  
+  .submit-button {
+    font-size: 1.2rem;
+    padding: 12px 24px;
+    margin-top: 20px;
+  }
+  
+  .error-message {
+    color: red;
+    font-weight: bold;
+  }

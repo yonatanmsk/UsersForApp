@@ -1,0 +1,43 @@
+.user-list-title {
+    font-weight: bold;
+    font-size: 2rem;
+    border-bottom: 3px solid #fe0000;
+    display: inline-block; 
+    padding-bottom: 5px;
+    color: #fe0000;
+}
+  
+  .user-list {
+    list-style-type: none; 
+    padding: 0; 
+}
+  
+  .button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+  
+  .button-space {
+    margin-right: 10px;
+}
+  
+.user-name,
+.user-email {
+  font-size: 1.6em;
+  color: #fe0000;
+}
+
+.button-center {
+    display: flex;
+    align-items: center;
+}
+
+.separator {
+    font-weight: bold;
+    margin: 0 8px;
+    color: #fe0000;
+    font-size: 25px;
+}
+  
